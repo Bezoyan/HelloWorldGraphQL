@@ -2,7 +2,7 @@
   "name": "GraphQL",
   "private": false,
   "dependencies": {
-    "apollo-server": "^2.6.7",
+    "apollo-server": "^2.25.3",
     "apollo-server-express": "^2.6.7",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
